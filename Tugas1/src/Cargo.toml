@@ -1,0 +1,12 @@
+[package]
+name = "data"
+version = "0.1.0"
+authors = ["Phroton98 <joseph_salimin@hotmail.com>"]
+
+[dependencies]
+scraper = "0.6.0"
+reqwest = "0.8.5"
+timer = "0.2.0"
+serde_json = "1.0.17"
+serde_derive = "1.0.55"
+serde = "1.0.55"
