@@ -77,12 +77,12 @@ Preprocessing contohnya :
 1. Compiler : rustc 1.25.0
 
 2. Dependencies : 
-  - scraper 0.6.0
-  - reqwest 0.8.5
-  - timer 0.2.0
-  - serde_json 1.0.17
-  - serde_derive 1.0.55
-  - serde 1.0.55
+    - scraper 0.6.0
+    - reqwest 0.8.5
+    - timer 0.2.0
+    - serde_json 1.0.17
+    - serde_derive 1.0.55
+    - serde 1.0.55
 
 3. Operating System : Linux or Ubuntu
 
